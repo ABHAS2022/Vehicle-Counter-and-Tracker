@@ -40,7 +40,7 @@ This project demonstrates a real-time vehicle detection and counting system usin
 
 ## Additional Information
 
-- **Github**: [Repository Link](https://github.com/ABHAS2022/Vehicle-Counter-and-Tracker) (Replace with actual GitHub repository link)
+- **Github**: [Repository Link](https://github.com/ABHAS2022/Vehicle-Counter-and-Tracker)
 - **Date**: March 2023
 
 Feel free to adjust any specific details according to your setup or project requirements.
